@@ -62,6 +62,4 @@ By following these steps, you'll have the MNIST Digit Recognition project set up
 
 --- 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-<p align = 'center'>
-Made with ❤️
-</p>
+<p align='center'>Made with ❤️</p>
