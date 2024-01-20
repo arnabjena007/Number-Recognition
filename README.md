@@ -60,5 +60,9 @@ Follow these steps to set up the MNIST Digit Recognition project on your local m
 
 By following these steps, you'll have the MNIST Digit Recognition project set up on your local machine, ready for exploration and use.
 
---- 
+---
+
+## Outcome
+
+
 <p align='center'>Made with ❤️</p>
